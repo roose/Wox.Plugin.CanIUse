@@ -9,4 +9,4 @@ Based on [alfred-caniuse-workflow](https://github.com/willfarrell/alfred-caniuse
 
 ## License
 
-Wox.Plugin.CanIUse is released under the MIT Licence. See the bundled [LICENSE](https://github.com/roose/Wox.Plugin.CanIUse/LICENSE.md) file for details.
+Wox.Plugin.CanIUse is released under the MIT Licence. See the bundled [LICENSE](https://github.com/roose/Wox.Plugin.CanIUse/blob/master/LICENSE.md) file for details.

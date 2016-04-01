@@ -4,7 +4,7 @@
     "Name":"caniuse",
     "Description":"Support tables for HTML5, CSS3, etc",
     "Author":"roose",
-    "Version":"1.0.0",
+    "Version":"1.1.0",
     "Language":"python",
     "Website":"https://github.com/roose/Wox.Plugin.CanIUse",
     "IcoPath":"Images\\caniuse.png",
